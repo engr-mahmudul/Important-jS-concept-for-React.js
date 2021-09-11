@@ -33,6 +33,7 @@ numbers.push(99);
 
 
 
+
 console.log(numbers);
 console.log(newNumbers);
 console.log(currentNumbers);
